@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Yeseva+One);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,700italic,400italic);
 
+
 /* CSS reset rules */
 
 html, body {
@@ -51,6 +52,7 @@ table {
 	border-spacing: 0;
 }
 
+
 /* Fonts and colors */
 
 body {
@@ -84,6 +86,7 @@ a {
 	color: #F80002;
 }
 
+
 /* Positioning and margins */
 
 @media (min-width: 1100px) {
@@ -106,6 +109,7 @@ header .right {
 	float: right;
 	margin: 0 10px 15px;
 }
+
 
 /* Header */
 header {
@@ -134,6 +138,7 @@ header a {
 	text-decoration: none;
 }
 
+
 /* Aside */
 
 aside p {
@@ -141,12 +146,14 @@ aside p {
 	padding: 20px 20px;
 }
 
+
 /* Footer */
 
 footer {
 	padding: 5px 15px;
 	height: 80px;
 }
+
 
 /* Text styles and margins */
 
